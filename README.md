@@ -2,3 +2,25 @@
 Zoekmachines groepsopdracht week4 2019.
 Dataset link: 
 https://www.kaggle.com/rmisra/imdb-spoiler-dataset
+
+# Hoe ElasticSearch te installeren
+## Pre-python installatie
+- ga naar de elasticsearch website and download die zip: https://www.elastic.co/downloads/elasticsearch
+- Unzip dat op de gewilde locatie
+- Navigeer binnen een terminal naar de installatie locatie en dan /bin
+- Run daar elastic search
+- check dan localhost:9200 zie of er wat json dingen komt te staan
+
+## Anaconda
+- Open terminal
+- Ga naar de map waar anaconda is geinstalleerd
+- Ga naar Scripts
+- run "conda install -c conda-forge elasticsearch"
+- Wacht tot ie klaar is met installeren
+
+## Python los
+- Installeer python natuurlijk
+- Installeer pip met "python get-pip.py"
+- Doe dan pip install elasticsearch
+
+Hierna zouden beide manieren moeten werken. Het lastigste is het vinden van de map locaties van de installaties.
