@@ -38,5 +38,3 @@ Hierna zouden beide manieren moeten werken. Het lastigste is het vinden van de m
 - "pip install wordcloud"
 
 Source: https://github.com/amueller/word_cloud
-
-# Push Test Ghislaine
