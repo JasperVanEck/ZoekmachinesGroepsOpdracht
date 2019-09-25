@@ -1,6 +1,6 @@
 # ZoekmachinesGroepsOpdracht
 Zoekmachines groepsopdracht week4 2019.
-Dataset link: 
+Dataset link:
 https://www.kaggle.com/rmisra/imdb-spoiler-dataset
 
 # Hoe ElasticSearch te installeren
@@ -38,3 +38,5 @@ Hierna zouden beide manieren moeten werken. Het lastigste is het vinden van de m
 - "pip install wordcloud"
 
 Source: https://github.com/amueller/word_cloud
+
+# Push Test Ghislaine
