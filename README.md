@@ -20,7 +20,21 @@ https://www.kaggle.com/rmisra/imdb-spoiler-dataset
 
 ## Python los
 - Installeer python natuurlijk
+- Download get-pip.py, is te makkelijk on te vinden
+- Navigeer naar get-pip.py locatie
 - Installeer pip met "python get-pip.py"
 - Doe dan pip install elasticsearch
 
 Hierna zouden beide manieren moeten werken. Het lastigste is het vinden van de map locaties van de installaties.
+
+# WordCloud installatie
+## WordCloud Anaconda
+- Navigeer naar de *\Anaconda3\Scripts map
+- run daar "conda install -c conda-forge wordcloud"
+- Na het installeren update the index in Anaconda Environments
+
+## WordCloud Los
+- Pip installeren
+- "pip install wordcloud"
+
+Source: https://github.com/amueller/word_cloud
