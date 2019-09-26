@@ -1,7 +1,9 @@
 # ZoekmachinesGroepsOpdracht
 Zoekmachines groepsopdracht week4 2019.
-Dataset link:
+- Dataset Reviews link:
 https://www.kaggle.com/rmisra/imdb-spoiler-dataset
+- Dataset Movie titles & details link(title.basics.tsv.gz):
+https://datasets.imdbws.com/
 
 # Hoe ElasticSearch te installeren
 ## Pre-python installatie
